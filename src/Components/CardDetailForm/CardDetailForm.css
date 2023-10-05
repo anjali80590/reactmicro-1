@@ -1,0 +1,33 @@
+.form{
+    margin-right: 100px;
+    margin-top: 150px;
+    /* border: 2px solid red; */
+    width: 500px;
+    position: relative;
+}
+.cardform{
+    position: relative;
+    z-index: 0;
+}
+input{
+    margin: 10px 0px;
+    padding: 10px;
+  border-radius: 8px;
+  border: 0.5px solid #2222;
+    width: 80%;
+    font-size: 15px;
+}
+p{
+    margin: 5px 0;
+}
+button{
+    margin: 10px 0px;
+    padding: 10px;
+  border-radius: 8px;
+  color: white;
+background-color:  #380C4A;;
+  border: 0.5px solid #2222;
+    width: 80%;
+    font-size: 15px;
+
+}
