@@ -1,4 +1,4 @@
-##[https://credit-card-generator-5.netlify.app]
+## [https://credit-card-generator-5.netlify.app]
 
 # Getting Started with Create React App
 
